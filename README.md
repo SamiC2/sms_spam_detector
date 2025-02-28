@@ -17,9 +17,11 @@ To run the code, please run all the cells in the **gradio_sms_text_classificatio
 
 ## Image of the Gradio App Ran from the Code
 
-Below is an example image of the Gradio app created from this project. A link will not be created and shared for personal security reasons. 
+Below is an example image of the Gradio app created from this project. 
 
 <img align="center" width="700" height="400" src='Images/example_gradio_sms_detector_app.png'>
+
+A link will not be created and shared for personal security reasons. Instead, please run the notebook if you would like to interact with the Gradio app to find out if the text message you received is spam or not.
 
 ## Repository Structure
 
